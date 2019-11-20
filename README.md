@@ -1,3 +1,3 @@
 # exercises
 Project for public distribution of exam solutions
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/dgvallejo/exercises.git/master)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/dgvallejo/exercises/master)
