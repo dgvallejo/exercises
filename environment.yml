@@ -1,8 +1,0 @@
-name: example-environment
-channels:
-  - conda-forge
-dependencies:
-  - python
-  - numpy
-  - sympy
-  - sys
