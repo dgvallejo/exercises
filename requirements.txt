@@ -1,5 +1,4 @@
 numpy
 sympy
 matplotlib
-random
 scipy
